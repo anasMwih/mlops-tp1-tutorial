@@ -7,7 +7,7 @@ pycache_/
 # Block data and binary model model payloads from bloated commits
 data/
 models/
-*. pk1
+*. pkl
 *. h5
 # Hide internal local workspace config preferences
 .vscode/
